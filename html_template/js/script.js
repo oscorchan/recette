@@ -2,7 +2,7 @@ let ingredients = ["pâtes", "oeuf", "sel", "poivre", "lardon", "oignon", "parme
 let nombreIngredients = ingredients.length
 console.log(nombreIngredients)
 document.body.innerHTML += "<h2> Vous avez besoin de " + nombreIngredients + " ingredients pour la recette </h2>"
-
+//test pour github
 let str = ""
 
 for (i=0; i<ingredients.length; i++)
